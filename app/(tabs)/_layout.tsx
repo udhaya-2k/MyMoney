@@ -80,7 +80,7 @@ export default function TabsLayout() {
       />
 
       <Tabs.Screen
-        name="cashflow"
+        name="index"
         options={{
           title: "Cash Flow",
           tabBarIcon: renderIcon("cashflow"),

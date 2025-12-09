@@ -9,11 +9,11 @@ import {
   Text,
   View
 } from "react-native";
-import BalanceCard from "../components/BalanceCard";
-import EmiList from "../components/EmiList";
-import TransactionForm from "../components/TransactionForm";
-import TransactionsList from "../components/TransactionsList";
-import { styles } from '../styles/CashFlowStyles';
+import BalanceCard from "../../components/BalanceCard";
+import EmiList from "../../components/EmiList";
+import TransactionForm from "../../components/TransactionForm";
+import TransactionsList from "../../components/TransactionsList";
+import { styles } from '../../styles/CashFlowStyles';
 
 // ----------------------
 // Types
